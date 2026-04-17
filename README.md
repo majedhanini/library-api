@@ -1,6 +1,6 @@
 ## 📚 Library API
 
-📌 Project Description
+## 📌 Project Description
 
 This is a simple backend application built using Express.js and Sequelize.
 It manages Authors and Books with a one-to-many relationship:
@@ -9,7 +9,7 @@ It manages Authors and Books with a one-to-many relationship:
 The project demonstrates CRUD operations and database relationships.
 
 -------------------------------------------
- ⚙️ Technologies Used
+ ## ⚙️ Technologies Used
 - Node.js
 - Express.js
 - Sequelize ORM
@@ -17,7 +17,7 @@ The project demonstrates CRUD operations and database relationships.
 - Docker
 
 -------------------------------------------
-🚀 Setup Instructions 
+## 🚀 Setup Instructions 
 
 1. Clone the repository
  git clone https://github.com/majedhanini/library-api.git
@@ -39,7 +39,7 @@ The project demonstrates CRUD operations and database relationships.
 
 
 -------------------------------------------
-📡 API Endpoints 
+## 📡 API Endpoints 
 
 -👤 Authors
 
@@ -65,7 +65,7 @@ The project demonstrates CRUD operations and database relationships.
 
 -------------------------------------------
 
-🧪 Example Request
+## 🧪 Example Request
 
 -Create Author
 
@@ -85,7 +85,7 @@ The project demonstrates CRUD operations and database relationships.
 }
 
 -------------------------------------------
-✅ Features
+## ✅ Features
 
 - CRUD operations for Authors and Books  
 - One-to-many relationship  
@@ -94,7 +94,7 @@ The project demonstrates CRUD operations and database relationships.
 - Docker support  
 -------------------------------------------
 
-📎 Notes
+## 📎 Notes
 
 - Make sure MySQL container is running before starting the server  
 - Use correct authorId when creating a book  
