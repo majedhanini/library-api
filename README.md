@@ -1,22 +1,20 @@
-📚 Library API
+##📚 Library API
+
 📌 Project Description
 
 This is a simple backend application built using Express.js and Sequelize.
 It manages Authors and Books with a one-to-many relationship:
-
-One Author can have many Books
-Each Book belongs to one Author
-
+- One Author can have many Books  
+- Each Book belongs to one Author
 The project demonstrates CRUD operations and database relationships.
 
 -------------------------------------------
-
-⚙️ Technologies Used
-Node.js
-Express.js
-Sequelize ORM
-MySQL
-Docker
+ ⚙️ Technologies Used
+- Node.js
+- Express.js
+- Sequelize ORM
+- MySQL
+- Docker
 
 -------------------------------------------
 🚀 Setup Instructions 
@@ -87,18 +85,21 @@ Docker
 }
 
 -------------------------------------------
-
 ✅ Features
-CRUD operations for Authors and Books
-One-to-many relationship
-Sequelize migrations
-Organized structure (controllers & routes)
-Docker support
 
+- CRUD operations for Authors and Books  
+- One-to-many relationship  
+- Sequelize migrations  
+- Organized structure (controllers & routes)  
+- Docker support  
 -------------------------------------------
 
 📎 Notes
-Make sure MySQL container is running before starting the server
-Use correct authorIdwhen creating a book
+
+- Make sure MySQL container is running before starting the server  
+- Use correct authorId when creating a book  
 
 
+
+## 📬 Contact
+Created by Majed Hanini
